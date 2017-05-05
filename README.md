@@ -37,22 +37,22 @@ To work with scroll
 add 'on scroll true and include a finish height so the animation knows when to complete by'
 
 "_componentAnimate": {
-  		"_onScroll": true,
-			"_startHeight": 60,
-			"_finishHeight": 25,
-			"_start": {
-				"position":"relative",
-				"right": "-100%",
-				"opacity": 0
-				},
-			"_command": {
-				"right": 0,
-				"opacity": 1
-				},
-			"_options": {
-				"duration": 1
-			}
-		}
+  "_onScroll": true,
+  "_startHeight": 60,
+  "_finishHeight": 25,
+  "_start": {
+    "position":"relative",
+    "right": "-100%",
+    "opacity": 0
+  },
+  "_command": {
+    "right": 0,
+    "opacity": 1
+  },
+  "_options": {
+    "duration": 1
+  }
+}
 ```
 
 
