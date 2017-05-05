@@ -1,0 +1,18 @@
+{
+    "name": "adapt-component-animate",
+    "repository": "git://github.com/cgkineo/adapt-component-animate",
+    "framework": "^2.0.0",
+    "version": "2.0.0",
+    "homepage": "https://github.com/cgkineo/adapt-component-animate",
+    "issues": "https://github.com/cgkineo/adapt-component-animate/issues/",
+    "displayName": "Component Animate",
+    "extension": "component-animate",
+    "description": "A basic component animation extension",
+    "main": "/js/adapt-component-animate.js",
+    "keywords": [
+        "adapt-plugin",
+        "adapt-extension"
+    ],
+    "license": "GPLv3",
+    "targetAttribute": "_componentAnimate"
+}
