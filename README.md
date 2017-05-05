@@ -1,7 +1,9 @@
 #adapt-component-animate
 
 
-A basic component animation extension - full credit to Kineo [Kineo's work](https://github.com/cgkineo/adapt-component-animate). This extends their work to add animation when scrolling. Works best when trickle autoscroll is false. 
+A basic component animation extension.
+Full credit to [Kineo's work](https://github.com/cgkineo/adapt-component-animate). 
+This extends their work to add animation when scrolling. Works best when trickle autoscroll is false. 
 
 
 Uses [velocityjs](http://julian.com/research/velocity/#fade)
