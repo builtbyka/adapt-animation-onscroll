@@ -1,21 +1,7 @@
-"_componentAnimate": {
-  "_startHeight": 60,
-  "_start": {
-      "position":"relative",
-      "left": "-100%"
-    },
-  "_command": {
-      "left": 0
-    },
-  "_options": {
-    "duration": 1500
-  }
-},
-
 //To work with scroll
 // add 'on scroll true and include a finish height so the animation knows when to complete by'
 
-"_componentAnimate": {
+"_componentScrollAnimate": {
   		"_onScroll": true,
 			"_startHeight": 60,
 			"_finishHeight": 25,

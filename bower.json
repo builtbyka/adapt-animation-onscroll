@@ -1,18 +1,15 @@
 {
-    "name": "adapt-component-animate",
-    "repository": "git://github.com/cgkineo/adapt-component-animate",
-    "framework": "^2.0.0",
-    "version": "2.0.0",
-    "homepage": "https://github.com/cgkineo/adapt-component-animate",
-    "issues": "https://github.com/cgkineo/adapt-component-animate/issues/",
-    "displayName": "Component Animate",
-    "extension": "component-animate",
+    "name": "adapt-component-scroll-animate",
+    "framework": "^1.0.0",
+    "version": "1.0.0",
+    "displayName": "Component Scroll Animate",
+    "extension": "component-scroll-animate",
     "description": "A basic component animation extension",
-    "main": "/js/adapt-component-animate.js",
+    "main": "/js/adapt-component-scroll-animate.js",
     "keywords": [
         "adapt-plugin",
         "adapt-extension"
     ],
     "license": "GPLv3",
-    "targetAttribute": "_componentAnimate"
+    "targetAttribute": "_componentScrollAnimate"
 }
